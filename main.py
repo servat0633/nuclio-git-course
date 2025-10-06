@@ -1,1 +1,2 @@
-print ("hello world")
+print ("hello world, I'm Jordi")
+print ( Bye, world)
